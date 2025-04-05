@@ -1,0 +1,15 @@
+.userimg{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 15%;
+}
+ h5:hover{
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+ }
+ .box{
+   width: 400px;
+   height: 400px;
+   margin-top: 25px;
+   border: 2px solid black;
+ }
